@@ -6,6 +6,14 @@
 
 ![The Burger Lord Delivery](screenshots/ms-icon.png)
 
+## Prerequisites
+
+```json
+  "engines": {
+    "node": "14.x"
+  }
+```
+
 ### To SEE `admin` features
 
 ```yaml
